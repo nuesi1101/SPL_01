@@ -15,3 +15,9 @@ public static void main(){
   System.out.println("Hallo");
 }
 ```
+
+## Aufgaben für Heute
+- [ ] Git Grundlagen
+- [ ] Git Übungen
+- [ ] Git in der Kommandozeile (Konsole)
+- [ ] Java Coding-Dojo
